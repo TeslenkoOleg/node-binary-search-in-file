@@ -1,5 +1,5 @@
 # node-binary-search-in-file
-How to find string in a big-sized file
+How to find string in a big-sized file.
 Original source: https://github.com/koorchik/jabascript-materials/tree/main/inverted-index
 # How it works
 1. Run map.js to create file with key-value pairs - node map.js >./pairs.data (add file path inside map.js)
