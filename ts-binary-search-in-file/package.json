@@ -1,0 +1,21 @@
+{
+  "name": "ts-binary-search-in-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-binary-search-in-file": "file:~/ts-binary-search-in-file-1.0.0.tgz"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5",
+    "ts-binary-search-in-file": "file:~/ts-binary-search-in-file-1.0.0.tgz"
+  }
+}

@@ -1,0 +1,4 @@
+/.idea
+/node_modules
+/ts-binary-search-in-file/node_modules
+/ts-binary-search-in-file/dist
